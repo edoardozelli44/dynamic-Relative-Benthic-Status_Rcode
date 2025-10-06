@@ -1,6 +1,6 @@
 ## In the following section example R code is provided for dRBS ##
 
-## Modelling the depletion and recovery of VMEs indicator taxa following bottom trawling activity in New Zealand waters  ===== ##
+## Modelling the depletion and recovery of VMEs indicator taxa following bottom trawling activity in New Zealand waters ##
 
 ##------------------------------  Authors: Edoardo Zelli & Fabrice Stephenson
 ##------------------------------  Start date : September 2023
